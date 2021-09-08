@@ -20,7 +20,7 @@
 На этой странице будет рассказано про Нашу Великую страну.
 ### Про страны
 Будет рассказано на каждой странице о каждой стране.
-### Конатакты
+### Контакты
 На этой странице и поддержку сайта.
 
 ## Ссылки
@@ -29,7 +29,7 @@
 
 
 ## Поддержка
-[![](https://ruzaharsu.github.io/political-na-postsovet-space/0.png)](mailto:zaharpeprenko2007@ya.ru)
+[![](https://agent-kgb-228.github.io/political-na-postsovet-space/0.png)](mailto:zaharpeprenko2007@ya.ru)
 [![](https://github.com/ruzaharsu/svoe/blob/main/Vk.png)](https://vk.me/club198438193)
 [![](https://github.com/ruzaharsu/svoe/blob/main/telegram.png)](https://t.me/the_batka)
 
